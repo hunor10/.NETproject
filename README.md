@@ -1,6 +1,6 @@
 # Recipe API
 
-A backend API for managing recipes, built for the MP1 2025 project at MentorProgram CodeSpring. This project implements a RESTful API using .NET Core 8, Entity Framework Core, and PostgreSQL, with deployment to Azure.
+A backend API for managing recipes. This project implements a RESTful API using .NET Core 8, Entity Framework Core, and PostgreSQL, with deployment to Azure.
 
 ## Features
 - CRUD operations for recipes and ingredients.
