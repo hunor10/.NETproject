@@ -24,3 +24,4 @@ publish/
 
 # Local Secrets
 appsettings.Development.json
+appsettings.json
