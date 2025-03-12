@@ -17,7 +17,7 @@ A backend API for managing recipes, built for the MP1 2025 project at MentorProg
 - Asynchronous communication
 
 ## Setup Instructions
-1. Clone the repository:git clone https://github.com/hunor10/.NETproject/tree/recipe-web-api
+1. Clone the repository:git clone https://github.com/hunor10/.NETproject.git
 2. Create the appsettings.json file and configure the database connection
 3. Run migrations: dotnet ef migrations add InitialCreate  
                    dotnet ef database update  
