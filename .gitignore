@@ -11,17 +11,4 @@ publish/
 
 # Local Secrets
 appsettings.Development.json
-# .NET Build Artifacts
-bin/
-obj/
-*.csproj.user
-publish/
-
-# Visual Studio Files
-.vs/
-*.sln
-*.sln.*.bak
-
-# Local Secrets
-appsettings.Development.json
 appsettings.json
