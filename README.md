@@ -1,12 +1,6 @@
 # Recipe API
 
 A backend API for managing recipes. This project implements a RESTful API using .NET Core 8, Entity Framework Core, and PostgreSQL, with deployment to Azure.
-Developed a RESTful API for managing recipes using .NET Core 8, Entity Framework Core, and PostgreSQL.
-Implemented CRUD operations for recipes and ingredients with a many-to-many relationship.
-Added a custom feature to suggest random recipes based on available ingredients.
-Deployed to Azure App Service with a PostgreSQL database for scalability.
-Enhanced API with status codes (201, 202, 203) for improved RESTful design.
-
 
 ## Features
 - CRUD operations for recipes and ingredients.
