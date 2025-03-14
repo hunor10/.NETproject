@@ -24,4 +24,4 @@ A backend API for managing recipes. This project implements a RESTful API using 
 4. Run the application: dotnet run || cd bin/Debug/net8.0 -> dotnet first.dll
 5. Access the API at https://localhost:5134/swagger/index.html (Frontend part in progress...)
 
-Azure deployment (might not be momentarily available): https://first-api-a0hmhgenaagcahaj.germanywestcentral-01.azurewebsites.net/
+Azure deployment-ready (might not be momentarily available): https://hunorrecipeapi-anejdqh6ggc6dgcf.northeurope-01.azurewebsites.net/swagger/index.html
