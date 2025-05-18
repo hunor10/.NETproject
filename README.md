@@ -7,7 +7,7 @@ A backend API for managing recipes. This project implements a RESTful API using 
 - Many-to-many relationship between recipes and ingredients.
 - Extra functionality: Random recipe selection based on available ingredients (`GET /api/recipes/random`).
 - Deployed to Azure for scalability.
-- Enhanced status codes (`201`, `202`, `203`) for extra credit.
+- Enhanced status codes (`201`, `202`, `203`).
 
 ## Tech Stack
 - ASP.NET Core 8
